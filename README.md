@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/stats-preview-card-component.jpg]()
+![./images/Stats-preview-card-component.jpg]()
 
 ### Links
 
