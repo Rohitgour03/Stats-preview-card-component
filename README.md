@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Rohitgour03/Stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://rohitgour03.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -52,15 +52,9 @@ also learned to use css flexbox layout technique.
 
 Recently i learned about css flexbox and grid, and i found flexbox just amazing layout technique to use. But never used css grids till now in any project and wanna get my hands dirty with the grids.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
 - Frontend Mentor - [@Rohitgour03](https://www.frontendmentor.io/profile/Rohitgour03)
 - Twitter - [@RohitGo34897216](https://www.twitter.com/@RohitGo34897216)
 
-## Acknowledgments
 
